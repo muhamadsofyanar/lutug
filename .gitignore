@@ -1,0 +1,13 @@
+**/node_modules/
+/vendor/
+.env
+.env.*
+!.env.example
+**/*.sqlite*
+**/*.log
+**/debug*.txt
+/uploads/
+/backend/backups/*
+/frontend/dist/
+.phpunit.cache/
+.vscode/

@@ -1,0 +1,13 @@
+**/node_modules
+**/vendor
+.git
+.env
+**/*.sqlite*
+**/*.log
+**/debug*.txt
+uploads
+backend/backups
+frontend/dist
+assets
+public
+tests
